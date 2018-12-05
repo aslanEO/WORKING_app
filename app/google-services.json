@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "515666190701",
+    "firebase_url": "https://picky-eater-431ed.firebaseio.com",
+    "project_id": "picky-eater-431ed",
+    "storage_bucket": "picky-eater-431ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515666190701:android:ed740478551aa9f6",
+        "android_client_info": {
+          "package_name": "de.andreasschrade.androidtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515666190701-eo44b5drov9e6ec62rdb0uqpgohgdn6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.andreasschrade.androidtemplate",
+            "certificate_hash": "3e4a5eeec3fd908e58429f25e4d36e1c55eeaa5c"
+          }
+        },
+        {
+          "client_id": "515666190701-993krolb96jb0eogji4dcv86u2m5ppc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbr7dInkhkpxVGB16_rjNOATE_gb_huM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515666190701-993krolb96jb0eogji4dcv86u2m5ppc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include layout="@layout/include_toolbar" />
+
+        <Button
+            android:id="@+id/button_cp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change My Password"
+            android:background="@android:color/white"/>
+
+        <Button
+            android:id="@+id/button_lg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOG OUT"
+            android:background="#FF3333"/>
+
+    </LinearLayout>
+    <include layout="@layout/include_navigation" />
+
+</android.support.v4.widget.DrawerLayout>
